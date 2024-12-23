@@ -8,7 +8,7 @@ Come and pick up information according to your desires !
 
 ### Prerequisites
 
-no prerequisites, yes really ;-) 
+No prerequisites, yes really ;-) 
 
 ## Build with
 
