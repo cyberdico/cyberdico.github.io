@@ -16,4 +16,4 @@ no prerequisites, yes really ;-)
 
 ## Contributing
 
-If you want to contribute, read the [CONTRIBUTING.md](https://github.com/cyberdico/cyberdico.github.io/contributing.md) file to learn how to do so.
+If you want to contribute, read the [CONTRIBUTING.md](../cyberdico.github.io/CONTRIBUTING.md) file to learn how to do so.
