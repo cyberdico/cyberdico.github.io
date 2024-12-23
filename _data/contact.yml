@@ -1,7 +1,8 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
+  icon: 'fab fa-github'
+  url: 'https://github.com/cyberdico/cyberdico.github.io'
 
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
