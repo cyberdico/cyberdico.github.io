@@ -2,8 +2,8 @@
 title: Pi-hole, protect your local network
 author: 6co-cp
 date: 2024-12-14 18:10:00 +0800
-categories: [Network, Tutorial, SecOps, Opensource]
-tags: [Monitoring]
+categories: [Monitoring]
+tags: [Network]
 render_with_liquid: false
 ---
 
