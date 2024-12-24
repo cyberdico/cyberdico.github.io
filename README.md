@@ -1,29 +1,57 @@
-# Chirpy Starter
+# Cyberdico
+
+Le Cyberdico est une initiative personnelle et libre inspirée par le dictionnaire de termes cyber proposé par l'ANSSI.
+
+L'objectif de ce projet est de fournir une liste de solutions utilisées dans le milieu de la cybersécurité, et de permettre à tous de rendre leur environnement personnel et professionnel plus sûr. 
+
+Ce projet offre également une opportunité de renforcer les systèmes d'information des petites structures, ou de toute autre organisation, dont la sécurité n'est pas le coeur de métier. Ainsi, nous effectuons la veille en sécurité qui peut parfois faire défaut.
+
+## Roadmap (dans le désordre)
+
+### Opensource (MIT, Apache GPL 3.0, etc.)
+
+- [x] Pi-Hole
+- [ ] PiRogue V2 
+- [ ] Grype
+- [ ] Malcolm
+- [ ] Monkey365
+- [ ] Nuclei
+- [ ] ZAP
+- [ ] Practisec
+- [ ] CyberBro
+- [ ] StirlingPDF
+- [ ] HardeningKitty
+- [ ] CyberChef
+- [ ] CVEMap
+- [ ] OPNsense
+- [ ] OpenCTI Community Edition
+- [ ] Mageni
+- [ ] Faraday
+- [ ] Mageni
+- [ ] RootScan
+- [ ] Qu1cksc0pe
+- [ ] Lynis
+- [ ] Kernel-Hardening-Checker
+- [ ] Harden365
+- [ ] Crowdsec (licence à vérifier)
+
+### Communautaire
+
+- [ ] CISO Assistant Community
+
+### Ressources (librement accessibles)
+
+- [ ] OWASP
+- [ ] Route 66
+
+### Graphes
+
+- [ ] Azure Charts
+
+# Chirpy part
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
-
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
-
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
 ## Usage
 
