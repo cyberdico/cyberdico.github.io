@@ -2,7 +2,7 @@
 
 <img src="../cyberdico.github.io/assets/img/readme/cyberdico-image.png" width="300" height="300">
 
-**Welcome in cyberdico!**
+**Welcome in cyberdico! 👋**
 
 You will find here compilation of tools, models, techniques concerning the cybersecurity.
 
