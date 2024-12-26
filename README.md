@@ -1,10 +1,17 @@
 # Cyberdico
 
-Compilation of tools, models, techniques concerning the cybersecurity.
+<img src="../cyberdico.github.io/assets/img/readme/cyberdico-image.png" width="300" height="300">
+
+**Welcome in cyberdico!**
+
+You will find here compilation of tools, models, techniques concerning the cybersecurity.
+
+
+![Cyberdico GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberdico&show=contribs,discussions_started,prs&show_icons=true&theme=tokyonight)
 
 ## Usage
 
-Come and pick up information according to your desires !
+Come and get information according to your needs!
 
 ## Build with
 
