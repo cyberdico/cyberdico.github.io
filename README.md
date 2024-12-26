@@ -1,14 +1,10 @@
 # Cyberdico
 
-Compilation of tools, models, techniques concerning the world of cybersecurity.
+Compilation of tools, models, techniques concerning the cybersecurity.
 
 ## Usage
 
 Come and pick up information according to your desires !
-
-## Prerequisites
-
-No prerequisites, yes really ;-) 
 
 ## Build with
 
