@@ -13,10 +13,6 @@ You will find here compilation of tools, models, techniques concerning the cyber
 
 Come and get information according to your needs!
 
-## Build with
-
-- [Jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-
 ## Contributing
 
 If you want to contribute, read the [CONTRIBUTING.md](../cyberdico.github.io/CONTRIBUTING.md) file to learn how to do so.
@@ -24,6 +20,11 @@ If you want to contribute, read the [CONTRIBUTING.md](../cyberdico.github.io/CON
 ## Code of conduct
 
 Here is our [code of conduct](../cyberdico.github.io/CODE_OF_CONDUCT.md) for all contributors.
+
+## Build with
+
+- [Jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+- [Github-pages](https://pages.github.com/)
 
 ## Authors
 
