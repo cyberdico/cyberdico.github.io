@@ -17,3 +17,8 @@ If you want to contribute, read the [CONTRIBUTING.md](../cyberdico.github.io/CON
 ## Code of conduct
 
 Here is our [code of conduct](../cyberdico.github.io/CODE_OF_CONDUCT.md) for all contributors.
+
+## Authors
+
+- Cyberdico
+- Ramisto
