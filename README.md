@@ -13,3 +13,7 @@ Come and pick up information according to your desires !
 ## Contributing
 
 If you want to contribute, read the [CONTRIBUTING.md](../cyberdico.github.io/CONTRIBUTING.md) file to learn how to do so.
+
+## Code of conduct
+
+Here is our [code of conduct](../cyberdico.github.io/CODE_OF_CONDUCT.md) for all contributors.
